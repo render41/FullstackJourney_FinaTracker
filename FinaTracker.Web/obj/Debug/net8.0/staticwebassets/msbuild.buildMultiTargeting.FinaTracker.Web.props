@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FinaTracker.Web.props" />
+</Project>

@@ -1,0 +1,11 @@
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/bin/Debug/net8.0/FinaTracker.Core.deps.json
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/bin/Debug/net8.0/FinaTracker.Core.dll
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/bin/Debug/net8.0/FinaTracker.Core.pdb
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/FinaTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/FinaTracker.Core.AssemblyInfoInputs.cache
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/FinaTracker.Core.AssemblyInfo.cs
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/FinaTracker.Core.csproj.CoreCompileInputs.cache
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/FinaTracker.Core.dll
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/refint/FinaTracker.Core.dll
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/FinaTracker.Core.pdb
+/home/gabrieldev/Área de trabalho/projects/csharp/JourneyFullstack/FinaTracker/FinaTracker.Core/obj/Debug/net8.0/ref/FinaTracker.Core.dll

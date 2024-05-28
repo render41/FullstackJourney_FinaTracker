@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rEZiD6gPozyGvtEKRHmY324jdtg9mxdV2TfjO9UFT/E=",
+  "Source": "FinaTracker.Api",
+  "BasePath": "_content/FinaTracker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinaTracker.Api/1.0.0": {
+        "dependencies": {
+          "FinaTracker.Core": "1.0.0"
+        },
+        "runtime": {
+          "FinaTracker.Api.dll": {}
+        }
+      },
+      "FinaTracker.Core/1.0.0": {
+        "runtime": {
+          "FinaTracker.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinaTracker.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinaTracker.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
